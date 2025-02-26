@@ -92,7 +92,7 @@ OPENWEATHER_API_KEY=your-openweather-api-key
 ## **Contributing**
 Contributions, suggestions, and bug fixes are welcome!  
 Feel free to fork the repository, make your changes, and submit a pull request.  
-If you encounter any issues or have ideas for improvements, please open an issue [here](https://github.com/yourusername/astra-voice-assistant/issues).
+If you encounter any issues or have ideas for improvements.
 
 
 ## **License**
