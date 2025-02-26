@@ -44,7 +44,7 @@ OPENWEATHER_API_KEY=your-openweather-api-key
 - **🚀 Launch the Assistant:**  
   Run the project as a Python script or in a Jupyter Notebook. Astra will greet you and wait for you to press Enter to start listening.
 
-- **🗣 Interact with Astra:**  
+  - **🗣 Interact with Astra:**  
   - **General Questions:**  
     Ask questions like *"Capital of france"* or *"Capital of france?"*
   - **🌤 Weather:**  
@@ -65,6 +65,35 @@ OPENWEATHER_API_KEY=your-openweather-api-key
 
 - **📘 README.md**  
   This file, providing project details and usage instructions.
+
+
+## **Challenges Faced**
+- **💡 Dynamic AI Responses:**  
+  I initially tried using Wikipedia and Google Search for answers, but they were inconsistent and didn't sound conversational.
+
+- **🔍 API Selection:**  
+  Finding a free API that was both reliable and dynamic was challenging. Ultimately, the OpenAI API (gpt-3.5-turbo) proved to be the best solution.
+
+- **🎤 Voice Recognition Accuracy:**  
+  Fine-tuning the speech recognition to work well in various environments was difficult. I had to adjust settings like ambient noise calibration and microphone sensitivity to improve accuracy.
+
+## **Future Work & Further Analysis**
+- **🧠 Enhanced Natural Language Understanding:**  
+  Integrate advanced NLP techniques to better handle ambiguous or multi-part queries.
+- **💻 Local Inference Options:**  
+  Explore running open-source models locally (using libraries like Hugging Face Transformers) to reduce dependency on external APIs and improve privacy.
+- **🔧 Expanded Functionality:**  
+  Add features such as scheduling appointments, integrating with calendar APIs, or even controlling smart home devices.
+- **⚙️ Improved Error Handling:**  
+  Enhance the robustness of error handling, especially in noisy environments, to make the assistant more resilient.
+- **🎨 User Customization:**  
+  Allow users to customize responses, adjust voice settings, or add personal vocabulary for a more personalized interaction.
+
+## **Contributing**
+Contributions, suggestions, and bug fixes are welcome!  
+Feel free to fork the repository, make your changes, and submit a pull request.  
+If you encounter any issues or have ideas for improvements, please open an issue [here](https://github.com/yourusername/astra-voice-assistant/issues).
+
 
 ## **License**
 This project is licensed under the **MIT License**. See the LICENSE file for more details.
