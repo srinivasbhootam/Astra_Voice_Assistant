@@ -26,8 +26,8 @@ Astra is a cutting-edge, voice-activated AI assistant built in Python. It levera
 ## **Installation**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/astra-voice-assistant.git
-   cd astra-voice-assistant
+   git https://github.com/srinivasbhootam/Astra_Voice_Assistant
+   cd Astra-voice-assistant
 
 
 ## **Install Dependencies: Ensure you have Python 3 installed, then run:**
