@@ -36,6 +36,7 @@ pip install python-dotenv SpeechRecognition pyttsx3 PyAudio requests
 ## **Configure Environment Variables: Create a file named Astra.env in the project root with the following content (replace with your actual keys):**
 
 OPENAI_API_KEY=your-google-ai-api-key
+
 OPENWEATHER_API_KEY=your-openweather-api-key
 
 ## **Usage**
